@@ -3,6 +3,9 @@
 ## Dataset
 
 The data consists of information regarding 485490 students that took part in the PISA 2012 test, they provide answers and inputs for around 500 variabels. The data was wrangled to reach only 30 variables like country, gender, their maths score,...etc. We had to convert some data from categories to numeric to combine them.
+In the first notebook file (preliminary_wrangling), we tried to clean our data for the analysis part, which can be found in the "exploration_work" notebook. We then used our key findings and visualizations to prepare a presentation and a slideshow.
+The data can be found in this google document in the PISA 2012 section.
+Data:https://docs.google.com/document/d/e/2PACX-1vQmkX4iOT6Rcrin42vslquX2_wQCjIa_hbwD0xmxrERPSOJYDtpNc_3wwK_p9_KpOsfA6QVyEHdxxq7/pub?embedded=True
 
 ## Summary of Findings
 
